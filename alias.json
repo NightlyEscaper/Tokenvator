@@ -2,7 +2,7 @@
     "name": "Tokenvator",
     "version": "v0.0.0",
     "command_name": "tokenvator",
-    "original_author": "b4rtik",
+    "original_author": "0xbadjuju",
     "repo_url": "https://github.com/NightlyEscaper/Tokenvator",
     "help": "Windows persistence toolkit",
     "entrypoint": "Main",
