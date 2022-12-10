@@ -14,12 +14,12 @@
       {
         "os": "windows",
         "arch": "amd64",
-        "path": "tokenvator.exe"
+        "path": "Tokenvator.exe"
       },
       {
         "os": "windows",
         "arch": "386",
-        "path": "tokenvator.exe"
+        "path": "Tokenvator.exe"
       }
     ]
   }
