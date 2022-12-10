@@ -1,0 +1,25 @@
+{
+    "name": "Tokenvator",
+    "version": "v0.0.0",
+    "command_name": "tokenvator",
+    "original_author": "b4rtik",
+    "repo_url": "https://github.com/NightlyEscaper/Tokenvator",
+    "help": "Windows persistence toolkit",
+    "entrypoint": "Main",
+    "allow_args": true,
+    "default_args": "-h",
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+      {
+        "os": "windows",
+        "arch": "amd64",
+        "path": "tokenvator.exe"
+      },
+      {
+        "os": "windows",
+        "arch": "386",
+        "path": "tokenvator.exe"
+      }
+    ]
+  }
