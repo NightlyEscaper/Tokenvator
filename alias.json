@@ -4,7 +4,7 @@
     "command_name": "tokenvator",
     "original_author": "0xbadjuju",
     "repo_url": "https://github.com/NightlyEscaper/Tokenvator",
-    "help": "Windows persistence toolkit",
+    "help": "A tool to elevate privilege with Windows Tokens.",
     "entrypoint": "Main",
     "allow_args": true,
     "default_args": "-h",
