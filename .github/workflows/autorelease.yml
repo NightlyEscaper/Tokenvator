@@ -80,6 +80,7 @@ jobs:
       run: |
         nuget.exe restore Tokenvator.sln
         msbuild.exe Tokenvator.sln /p:Configuration=Release /p:Platform="Any CPU" /p:OutputPath=compiled/
+        tree /F
         Copy-Item -Path Tokenvator\compiled\Tokenvator.exe -Destination compiled\Tokenvator.exe
 
     - name: Build Package
